@@ -1,3 +1,6 @@
+// this is an electronic candle made with neopixel
+
+
 #include <Adafruit_NeoPixel.h>
 #include <ColorConverter.h>
 
