@@ -1,3 +1,5 @@
+// pleast visit this website to see the effect: https://wp.nyu.edu/nianqi/2019/03/13/lamp-infinite-mirror/
+
 #include <SimpleKalmanFilter.h>
 
 #include <Adafruit_NeoPixel.h>
